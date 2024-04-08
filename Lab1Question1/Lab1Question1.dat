@@ -1,0 +1,18 @@
+/*********************************************
+ * OPL 22.1.1.0 Data
+ * Author: Sabarish
+ * Creation Date: 05-April-2024 at 7:02:15 PM
+ *********************************************/
+product = 3;
+material = 4;
+
+profit = [14, 15, 22];
+rawMaterial = [50, 200, 200, 100];
+
+//productMaterial[2,2]
+productMaterial = [
+	[0, 2, 3],
+	[3, 2, 1],
+	[4, 4, 6],
+	[0, 0, 2],
+];
